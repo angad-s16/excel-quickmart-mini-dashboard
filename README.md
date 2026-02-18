@@ -12,7 +12,6 @@ This is a small Excel practice project I made to revise Excel analytics + dashbo
 
 ### Functions & Formulas Used (from the workbook)
 - IF / IFS / AND (flags + buckets like discount level, age group, payment category)
-- TEXT (month extraction from date)
 - UNIQUE (dynamic lists for city/category)
 - SUMIFS (multi-condition revenue calculations)
 - COUNTIFS (cancelled %, delivered/returned counts)
