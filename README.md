@@ -31,4 +31,4 @@ Dataset is small (30 rows) and manually created for practice.
 Goal was to build something clean + interactive and practice formulas (not just pivots).
 
 **Preview:**  
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
